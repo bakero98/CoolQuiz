@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#6A1B9A</color>
     <color name="colorAccent">#9013FE</color>
     <color name="colorWhite">#FFFFFF</color>
+
+    <color name="greenAnswer">#85f263</color>
+    <color name="redAnswer">#ed2d18</color>\
+    <color name="newGamePinky">#ee97f0</color>
 </resources>
